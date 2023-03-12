@@ -10,5 +10,5 @@ ABOUT
 - To make the Horiseon website more accessible to users by adding alt tags, making comments to change the semantic HTML elements
 
 Contributors 
-Melanie Wang
+Melanie Wang &
 Xandromus
